@@ -8,7 +8,7 @@
 
   <br />
 
-  <a href="https://romaosantosalisson.github.io/task-do-it/">
+  <a href="https://alissonromaosantos.github.io/task-do-it/">
     <img
       src="https://img.shields.io/badge/🌐%20Acessar%20Aplicação-Task%3A%20Do%20It-2ea44f?style=for-the-badge"
       alt="Acessar Task: Do It"
@@ -361,7 +361,7 @@ Você precisa apenas de:
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/romaosantosalisson/task-do-it.git
+git clone https://github.com/alissonromaosantos/task-do-it.git
 ```
 
 ### 2️⃣ Acesse o diretório
@@ -474,7 +474,7 @@ O **Task: Do It** foi desenvolvido para consolidar conhecimentos fundamentais de
 
   <br />
 
-  <a href="https://romaosantosalisson.github.io/task-do-it/">
+  <a href="https://alissonromaosantos.github.io/task-do-it/">
     <img
       src="https://img.shields.io/badge/🌐%20Abrir%20Task%3A%20Do%20It-Visitar%20Aplicação-2ea44f?style=for-the-badge"
       alt="Abrir Task: Do It"
@@ -483,7 +483,7 @@ O **Task: Do It** foi desenvolvido para consolidar conhecimentos fundamentais de
 
 <br /><br />
 
-👉🏻 **[Acessar o Task: Do It](https://romaosantosalisson.github.io/task-do-it/)**
+👉🏻 **[Acessar o Task: Do It](https://alissonromaosantos.github.io/task-do-it/)**
 
 </div>
 
@@ -513,7 +513,7 @@ Desenvolvido com ❤️, ☕ e JavaScript puro.
 
   <br />
 
-  <a href="https://github.com/romaosantosalisson">
+  <a href="https://github.com/alissonromaosantos">
     <img
       src="https://img.shields.io/badge/GitHub-Álisson%20Romão%20Santos-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub - Álisson Romão Santos"
